@@ -7,4 +7,5 @@ It covers things about front end web development, workflows, and other random ti
 
 #About
 Inspired by [thoughtbot/til](https://github.com/thoughtbot/til)
+
 [More about writing on GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
